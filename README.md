@@ -46,6 +46,13 @@ Frontend
 npm install
 npm run start // Application will start on localhost:3000
 ```
+Add email and password to send smtp mail while requesting to forgot password
+
+```
+open server/config.json
+user: email
+password: password
+```
 
 ### Authors
 
